@@ -1,0 +1,42 @@
+[
+{
+"family": "Metropolis",
+"fonts": [
+{
+"asset": "metropolis-regular.otf"
+}
+]
+},
+{
+"family": "Metropolis",
+"fonts": [
+{
+"asset": "metropolis-bold.otf"
+}
+]
+},
+{
+"family": "Metropolis",
+"fonts": [
+{
+"asset": "metropolis-medium.otf"
+}
+]
+},
+  {
+    "family": "Metropolis",
+    "fonts": [
+      {
+        "asset": "metropolis-black.otf"
+      }
+    ]
+  },
+  {
+    "family": "Metropolis",
+    "fonts": [
+      {
+        "asset": "metropolis-semi-bold.otf"
+      }
+    ]
+  }
+]
