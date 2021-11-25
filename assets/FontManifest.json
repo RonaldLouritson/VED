@@ -1,41 +1,50 @@
 [
 {
-"family": "Metropolis",
+"family": "MetropolisRegular",
 "fonts": [
 {
-"asset": "metropolis-regular.otf"
+"asset": "assets/fonts/MetropolisRegular.otf"
 }
 ]
 },
 {
-"family": "Metropolis",
+"family": "MetropolisBold",
 "fonts": [
 {
-"asset": "metropolis-bold.otf"
+"asset": "assets/fonts/MetropolisBold.otf"
 }
 ]
 },
 {
-"family": "Metropolis",
+"family": "MetropolisMedium",
 "fonts": [
 {
-"asset": "metropolis-medium.otf"
+"asset": "assets/fonts/MetropolisMedium.otf"
 }
 ]
 },
   {
-    "family": "Metropolis",
+    "family": "MetropolisBlack",
     "fonts": [
       {
-        "asset": "metropolis-black.otf"
+        "asset": "assets/fonts/MetropolisBlack.otf"
       }
     ]
   },
   {
-    "family": "Metropolis",
+    "family": "MetropolisSemiBold",
     "fonts": [
       {
-        "asset": "metropolis-semi-bold.otf"
+        "asset": "assets/fonts/MetropolisSemiBold.otf"
+      }
+    ]
+  },
+
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "assets/fonts/MaterialIcons-Regular.ttf"
       }
     ]
   }
